@@ -1,0 +1,13 @@
+const name = "john";
+const age = 20;
+const isadult = false;
+let z=10;
+let x=null;
+let h;
+console.log(`my name is ${name} and i am ${age} years old.`);
+console.log(typeof age);
+console.log(typeof name);
+console.log(typeof isadult);
+console.log(typeof z);
+console.log(typeof x);
+console.log(typeof h);
